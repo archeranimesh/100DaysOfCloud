@@ -3,6 +3,7 @@
 </p>
 
 ## The Challenge
+
 1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
 2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
 3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
@@ -11,19 +12,29 @@
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
 ## How to use this template:
+
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Animesh Bhadra's Cloud Journey
 
-[✍️ Introduce yourself]
+My Name is Animesh Bhadra, I am a 15+ year veteran of the IT Industry working as an embedded engineer and full stack Python engineer. I've primarily worked on Open Source space with technologies like Angular, NodeJS, Python, Django, Flask, SQL, C, Linux Kernel. Lately I've been helping my company to be cloud enabled with AWS. I love web scrapping and big fan of shell scripts.
 
-[✍️ Tell us why you started this challenge]
+I've started this challenge as a way to organize what I am doing to enhance my knowledge of the Cloud Journey. I'm working towards a career as an AWS Cloud Engineer. I have plan to complete these 2 certification first. 
 
-[✍️ Tell us where you want to be at the end of the challenge]
+* [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+* [AWS Certified Developer - Associate](https://aws.amazon.com/certification/certified-developer-associate/)
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+When this challenge ends, I'd like to:
+
+* Integrate AWS APIs, AWS CLI and SDKs to my applications.
+* Deploy these application on cloud using CI/CD pipeline.
+* Making my application containerized and learning it best practices.
+* Enhance my existing knowledge of AWS to identify and deploy secure procedure for optimal cloud deployment and maintenance. 
+
+* Follow Me on [🐦 Twitter](https://twitter.com/animeshkbhadra)
+* Connect with me on  [LinkedIn](https://www.linkedin.com/in/animeshkbhadra)
+* Check out my blog [here](http://archerimagine.com/)
 
 ## Stepping out the door
 
